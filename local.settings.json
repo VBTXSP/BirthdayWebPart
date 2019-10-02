@@ -1,0 +1,12 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "GraphClientId": "62ca6374-6dc3-45b9-b6bb-14df1c158de9",
+    "GraphClientSecret": "3J5@4WLK[T4SMg_YdcDQlXGgGzlOcL*y",
+    "TenantId": "a05d37d6-5a0d-4083-887d-6b340796809a",
+    "TenantUrl": "https://newampio.sharepoint.com",
+    "BirthdayListTitle": "Birthdays",
+    "SpClientId": "240ad28b-39bc-4f40-bf88-46dacd3ec29a",
+    "SpClientSecret": "7gjKNZ9x0Hu9YQN64TIj+dCoyxjnB7NVLdJlyVdi8xE="
+  }
+}
